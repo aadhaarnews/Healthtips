@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Latest</title>
+    <link>https://nightdairies.github.io/categories/</link>
+    <description>Recent content in Categories on Latest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://nightdairies.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>घरेलू नुस्खे</title>
+      <link>https://nightdairies.github.io/categories/%E0%A4%98%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A5%82-%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%96%E0%A5%87/</link>
+      <pubDate>Tue, 29 Aug 2017 12:38:46 +0000</pubDate>
+      
+      <guid>https://nightdairies.github.io/categories/%E0%A4%98%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A5%82-%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%96%E0%A5%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>फिटनेस</title>
+      <link>https://nightdairies.github.io/categories/%E0%A4%AB%E0%A4%BF%E0%A4%9F%E0%A4%A8%E0%A5%87%E0%A4%B8/</link>
+      <pubDate>Mon, 28 Aug 2017 14:24:06 +0000</pubDate>
+      
+      <guid>https://nightdairies.github.io/categories/%E0%A4%AB%E0%A4%BF%E0%A4%9F%E0%A4%A8%E0%A5%87%E0%A4%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>योग</title>
+      <link>https://nightdairies.github.io/categories/%E0%A4%AF%E0%A5%8B%E0%A4%97/</link>
+      <pubDate>Mon, 28 Aug 2017 12:55:29 +0000</pubDate>
+      
+      <guid>https://nightdairies.github.io/categories/%E0%A4%AF%E0%A5%8B%E0%A4%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>रहिए कूल</title>
+      <link>https://nightdairies.github.io/categories/%E0%A4%B0%E0%A4%B9%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A5%82%E0%A4%B2/</link>
+      <pubDate>Mon, 28 Aug 2017 13:44:27 +0000</pubDate>
+      
+      <guid>https://nightdairies.github.io/categories/%E0%A4%B0%E0%A4%B9%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A5%82%E0%A4%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>रिलेशनशिप</title>
+      <link>https://nightdairies.github.io/categories/%E0%A4%B0%E0%A4%BF%E0%A4%B2%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%AA/</link>
+      <pubDate>Tue, 29 Aug 2017 10:41:29 +0000</pubDate>
+      
+      <guid>https://nightdairies.github.io/categories/%E0%A4%B0%E0%A4%BF%E0%A4%B2%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>हेल्दी फूड</title>
+      <link>https://nightdairies.github.io/categories/%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AB%E0%A5%82%E0%A4%A1/</link>
+      <pubDate>Fri, 25 Aug 2017 15:06:03 +0000</pubDate>
+      
+      <guid>https://nightdairies.github.io/categories/%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%AB%E0%A5%82%E0%A4%A1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
